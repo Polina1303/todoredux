@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todoredux/static/css/main.57b6fbd8.css",
+    "main.js": "/todoredux/static/js/main.5eb644af.js",
+    "static/js/787.fb948ced.chunk.js": "/todoredux/static/js/787.fb948ced.chunk.js",
+    "index.html": "/todoredux/index.html",
+    "main.57b6fbd8.css.map": "/todoredux/static/css/main.57b6fbd8.css.map",
+    "main.5eb644af.js.map": "/todoredux/static/js/main.5eb644af.js.map",
+    "787.fb948ced.chunk.js.map": "/todoredux/static/js/787.fb948ced.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57b6fbd8.css",
+    "static/js/main.5eb644af.js"
+  ]
+}
